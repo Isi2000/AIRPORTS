@@ -1,0 +1,333 @@
+Index, Airport Name, Latitude, Longitude
+1, Wiley Post-Will Rogers Mem, 71.2854, -156.7787
+2, Deadhorse, 70.1948, -148.4647
+3, Ralph Wien Memorial, 64.3219, -149.1200
+4, Fairbanks Intl, 64.8151, -147.8567
+5, Nome, 64.5111, -165.4452
+6, St Mary's, 62.0583, -163.3053
+7, Aniak, 61.5797, -159.5450
+8, Anchorage Intl, 61.1743, -149.9962
+9, Tuluksak, 61.1015, -160.9605
+10, Akiachak, 60.9020, -161.4393
+11, Akiak, 60.8919, -161.3923
+12, Kwethluk, 60.8069, -161.4439
+13, Bethel, 60.7797, -161.8375
+14, Napaskiak, 60.7030, -161.7732
+15, Napakiak, 60.6885, -161.9880
+16, Merle K (Mudhole) Smith, 60.4915, -162.2767
+17, Tuntutuliak, 60.3352, -162.6654
+18, Eek, 60.2169, -162.0428
+19, Kongiganak, 60.9876, -161.4355
+20, Kwigillingok, 59.8761, -163.1669
+21, Quinhagak, 59.7495, -161.9010
+22, Yakutat, 59.5033, -139.6612
+23, Dillingham, 59.0456, -158.5050
+24, King Salmon, 58.6883, -156.6617
+25, Gustavus, 58.4210, -135.7066
+26, Juneau Intl, 58.3549, -134.5802
+27, Kodiak, 57.7493, -152.4949
+28, St Paul Island, 57.1507, -170.2174
+29, Sitka, 57.0469, -135.3616
+30, Port Heiden, 56.9492, -158.6255
+31, James A Johnson Petersburg, 56.8017, -132.9511
+32, Wrangell, 56.4843, -132.3698
+33, Ketchikan Intl, 55.3556, -131.7137
+34, Sand Point, 55.3169, -160.4914
+35, Cold Bay, 55.2044, -162.7247
+36, Unalaska, 53.9001, -166.5439
+37, Eareckson As, 52.7123, 174.1136
+38, Adak Naf, 51.8777, -176.6590
+39, Bellingham Intl, 48.7920, -122.5373
+40, Glacier Park Intl, 48.3105, -114.2558
+41, Minot Intl, 48.2593, -101.2783
+42, William R Fairchild Intl, 48.1202, -123.5000
+43, Grand Forks Afb, 47.9455, -97.1760
+44, Grand Forks Intl, 47.9492, -97.1760
+45, Spokane Intl, 47.6197, -117.5339
+46, Great Falls Intl, 47.4820, -111.3560
+47, Seattle-Tacoma Intl, 47.4490, -122.3086
+48, Pangborn Memorial, 47.3997, -120.2044
+49, Grant County, 47.2076, -119.3192
+50, Missoula Intll, 46.9163, -114.0912
+51, Hector Intll, 46.9209, -96.8158
+52, Duluth Intl, 46.8421, -92.1948
+53, Bismarck Muni, 46.7741, -100.7467
+54, Pullman/Moscow Regional, 46.7439, -117.1108
+55, Helena Regional, 46.6068, -111.9837
+56, Yakima Air Terminal, 46.5682, -120.5432
+57, Marquette County, 46.3536, -87.3942
+58, Lewiston-Nez Perce County, 46.3745, -117.0148
+59, Tri-Cities, 46.2639, -119.1131
+60, Walla Walla Regional, 46.0958, -118.2883
+61, Bert Mooney, 45.9503, -112.4960
+62, Billings Logan Intl, 45.8097, -108.5373
+63, Gallatin Field, 45.7774, -111.1533
+64, Eastern Oregon Regional At Pendleton, 45.6951, -118.8419
+65, Portland Intl, 45.5887, -122.5975
+66, Mcnary Fld, 45.5346, -122.9120
+67, Minneapolis-St Paul Intl/Wold-Chamberlain, 44.8820, -93.2165
+68, Bangor Intl, 44.8074, -68.8281
+69, Central Wisconsin, 44.7873, -89.6668
+70, Cherry Capital, 44.7414, -85.5822
+71, Austin Straubel Intll, 44.4850, -88.1292
+72, Burlington Intl, 44.4695, -73.1533
+73, Outagamie County, 44.2603, -88.5148
+74, Roberts Field, 44.2541, -121.1503
+75, Mahlon Sweet Field, 44.1246, -123.2146
+76, Rapid City Regional, 44.0453, -103.0568
+77, Wittman Regional, 43.9661, -88.5518
+78, Rochester Intll, 43.9072, -92.5005
+79, La Crosse Muni, 43.8784, -91.2565
+80, Portland Intl Jetport, 43.6462, -70.3093
+81, Jackson Hole, 43.6073, -110.7375
+82, Joe Foss Field, 43.5804, -96.7415
+83, Boise Air Terminal /Gowen Fld/, 43.5704, -116.2238
+84, Mbs Intll, 43.5329, -84.0794
+85, Fanning Field, 43.5044, -112.0717
+86, Friedman Memorial, 43.5044, -114.2962
+87, North Bend Muni, 43.4171, -124.2462
+88, Muskegon County, 43.1695, -86.2373
+89, Oneida County, 43.2349, -75.4050
+90, Dane County Regional-Truax Field, 43.1400, -89.3375
+91, Greater Rochester Intl, 43.1189, -77.6727
+92, Syracuse Hancock Intl, 43.1112, -76.1063
+93, Bishop Intll, 42.9405, -85.5774
+94, General Mitchell Intll, 42.9476, -87.8966
+95, Greater Buffalo Intl, 42.9400, -78.7322
+96, Manchester, 42.9326, -71.4357
+97, Pocatello Regional, 42.9095, -112.5910
+98, Natrona County Intl, 42.8966, -106.4646
+99, Kent County Intl, 42.8818, -85.5239
+100, Capital City, 42.2124, -83.3534
+101, Albany County, 42.7470, -73.8035
+102, Waterloo Muni, 42.5571, -92.4009
+103, Tompkins County, 42.4910, -76.4586
+104, Twin Falls-Sun Valley Regional, 42.4818, -114.4877
+105, Detroit City, 42.4092, -83.0099
+106, Sioux Gateway, 42.4026, -96.3842
+107, Dubuque Regional, 42.4014, -90.7095
+108, Rogue Valley Intl- M, 42.3736, -122.8726
+109, General Edward Lawrence Logan, 42.3643, -71.0052
+110, Worcester Muni, 42.2673, -71.8757
+111, Kalamazoo/Battle Creek International, 42.2352, -85.5512
+112, Detroit Metropolitan Wayne County, 42.2121, -83.3489
+113, Binghamton Regional/Edwin A Link Field, 42.2085, -75.9827
+114, Greater Rockford, 42.2009, -89.0972
+115, Elmira/Corning Regional, 42.1591, -76.8919
+116, Klamath Falls Intll, 42.1538, -121.7335
+117, Erie Intl, 42.0836, -80.1760
+118, Chicago O'hare Intl, 41.9786, -87.9048
+119, Bradley Intl, 41.9389, -72.6832
+120, Cedar Rapids Muni, 41.8847, -91.7109
+121, William B. Heilig Field, 41.7834, -87.7523
+122, Merrill C Meigs, 41.8623, -87.6091
+123, Chicago Midway, 41.7867, -87.7376
+124, Jack Mc Namara Field, 41.7016, -86.8214
+125, Theodore Francis Green State, 41.7270, -71.4306
+126, Michiana Rgnl Transportation Center, 41.7096, -86.3173
+127, Toledo Express, 41.5920, -83.8030
+128, Des Moines Intl, 41.5340, -93.6585
+129, Stewart Int'l, 41.5041, -74.1048
+130, Quad-City, 41.4485, -90.5076
+131, Cleveland-Hopkins Intl, 41.4105, -81.8380
+132, Wilkes-Barre/Scranton Intl, 41.3385, -75.7249
+133, Eppley Airfield, 41.3030, -95.8936
+134, Tweed-New Haven, 41.2632, -72.8867
+135, Youngstown-Warren Regional, 41.2606, -80.6793
+136, Westchester County, 41.0664, -73.7085
+137, Fort Wayne Intll, 40.9783, -85.1951
+138, Arcata, 40.9780, -124.1086
+139, Akron-Canton Regional, 40.9168, -81.4422
+140, Lincoln Muni, 40.8491, -96.7537
+141, University Park, 40.8491, -77.8487
+142, Elko Muni-J.C. Harris Field, 40.8249, -115.7920
+143, Long Island Mac Arthur, 40.7895, -73.1002
+144, Salt Lake City Intl, 40.7856, -111.9769
+145, Burlington Regional, 40.7720, -91.1254
+146, La Guardia, 40.7769, -73.8740
+147, Newark Intl, 40.6895, -74.1745
+148, Greater Peoria Regional, 40.6642, -89.6932
+149, Lehigh Valley Intll, 40.6520, -75.4392
+150, John F Kennedy Intl, 40.6413, -73.7781
+151, Redding Muni, 40.5090, -122.2964
+152, Pittsburgh Intll, 40.4914, -80.2329
+153, Yampa Valley, 40.4852, -106.8260
+154, Bloomington/Normal, 40.4773, -88.9151
+155, Purdue University, 40.4120, -86.9369
+156, Mercer County, 40.2763, -74.8135
+157, Harrisburg Intll, 40.1935, -76.7564
+158, University Of Illinois-Willard, 40.0390, -88.2786
+159, Port Columbus Intl, 39.9979, -82.8919
+160, Quincy Muni Baldwin Field, 39.9428, -91.1946
+161, James M Cox Dayton Intl, 39.9025, -84.2191
+162, Philadelphia Intl, 39.8729, -75.2437
+163, Capital, 39.9015, -89.0853
+164, Decatur, 39.8327, -88.8658
+165, Chico Muni, 39.7988, -121.8580
+166, Stapleton Intl, 39.7750, -104.9370
+167, Indianapolis Intl, 39.7173, -86.2946
+168, Eagle County Regional, 39.6425, -106.9185
+169, Reno/Tahoe Intll, 39.4991, -119.7681
+170, Atlantic City Intll, 39.4576, -74.5772
+171, Hulman Regional, 39.4515, -87.3073
+172, Kansas City Intl, 39.2976, -94.7139
+173, Aspen-Pitkin Co/Sardy Field, 39.2232, -106.8682
+174, Baltimore-Washington Intl, 39.1753, -76.6683
+175, Walker Field, 39.1224, -108.5270
+176, Cincinnati/Northern Kentucky Intl, 39.0488, -84.6678
+177, Washington Dulles Intl, 38.9445, -77.4558
+178, Lake Tahoe, 38.9050, -119.9920
+179, Washington National, 38.8512, -77.0402
+180, Columbia Regional, 38.8181, -92.2218
+181, City Of Colorado Springs Muni, 38.8058, -104.7000
+182, Lambert-St Louis Intl, 38.7477, -90.3628
+183, Sacramento Metropolitan, 38.6950, -121.5908
+184, Gunnison County, 38.5339, -106.9328
+185, Sonoma County, 38.5069, -122.8129
+186, Yeager, 38.3732, -81.5951
+187, Tri-State/Milton J.Ferguson Field, 38.3650, -82.5580
+188, Pueblo Memorial, 38.2892, -104.4972
+189, Louisville Intl, 38.1744, -85.7360
+190, Charlottesville-Albemarle, 38.1402, -78.4523
+191, Evansville Regional, 38.0372, -87.5324
+192, Blue Grass, 38.0402, -84.6059
+193, Stockton Metropolitan, 37.8947, -121.2378
+194, Greenbrier Valley, 37.8596, -80.3995
+195, Williamson County Regional, 37.7542, -89.0105
+196, Forney Aaf, 37.7025, -97.2169
+197, Metropolitan Oakland Intl, 37.7213, -122.2208
+198, Wichita Mid-Continent, 37.6499, -97.4331
+199, Modesto City-County--Harry Sham Field, 37.6319, -120.9565
+200, Mammoth Lakes, 37.6242, -118.8378
+201, San Francisco Intl, 37.6189, -122.3750
+202, Richmond Intll, 37.5052, -77.3197
+203, San Jose Intll, 37.3626, -121.9290
+204, Roanoke Regional/Woodrum Field, 37.3245, -79.9754
+205, Merced Municipal/Macready Field, 37.2849, -120.5137
+206, Springfield Regional, 39.8405, -89.6778
+207, Cape Girardeau Regional, 37.2259, -89.5708
+208, Durango-La Plata County, 37.1490, -107.7520
+209, Joplin Regional, 37.1528, -94.4983
+210, Newport News/Williamsburg International, 37.1319, -76.4920
+211, Barkley Regional, 36.8593, -88.3728
+212, Norfolk Intl, 36.8946, -76.2012
+213, Fresno Air Terminal, 36.7762, -119.7181
+214, Monterey Peninsula, 36.5870, -121.8435
+215, Tri-Cities Regional Tn/Va, 36.4754, -82.4080
+216, Tulsa Intl, 36.1984, -95.8882
+217, Nashville Intl, 36.1246, -86.6782
+218, Piedmont Triad Intll, 36.1000, -79.9419
+219, Mc Carran Intl, 36.0801, -115.1525
+220, Drake Field, 36.0050, -94.1700
+221, Raleigh-Durham Intll, 35.8778, -78.7875
+222, Mc Ghee Tyson, 35.8112, -83.9853
+223, Asheville Regional, 35.4358, -82.5418
+224, Meadows Field, 35.4336, -119.0521
+225, Will Rogers World, 35.3931, -97.6007
+226, Fort Smith Regional, 35.3366, -94.3675
+227, Kinston Regional Jetport At Stallings Field, 35.3191, -77.6119
+228, San Luis Obispo County-Mc Chesney Field, 35.2368, -120.6413
+229, Amarillo Intl, 35.2206, -101.7061
+230, Charlotte/Douglas Intl, 35.2140, -80.9431
+231, Flagstaff Pulliam, 35.2191, -111.6634
+232, Memphis Intl, 35.0424, -89.9767
+233, Albuquerque Intl, 35.0402, -106.6096
+234, Lovell Field, 35.0353, -85.1983
+235, Fayetteville Regional/Grannis Field, 34.9912, -78.8803
+236, Santa Maria Pub/Capt G Allan Hancock Field, 34.9018, -120.4475
+237, Greenville-Spartanburg International, 34.8956, -82.2189
+238, Albert J Ellis, 34.8292, -77.6121
+239, Adams Field, 34.7270, -92.2197
+240, Huntsville Intl-Carl T Jones Field, 34.6439, -86.7865
+241, Lawton Muni, 34.5686, -98.4166
+242, Santa Barbara Muni, 34.4259, -119.8404
+243, New Hanover Intll, 34.2706, -77.9023
+244, Oxnard, 34.2008, -119.2070
+245, Burbank-Glendale-Pasadena, 34.2006, -118.3587
+246, Ontario Intl, 34.0560, -117.6012
+247, Sheppard Afb/Wichita Falls Municipal, 33.9888, -98.4919
+248, Los Angeles Intl, 33.9416, -118.4085
+249, Columbia Metropolitan, 33.9380, -81.1195
+250, Palm Springs Regional, 33.8297, -116.5063
+251, Long Beach /Daugherty Field/, 33.8178, -118.1510
+252, Myrtle Beach Intl, 33.6797, -78.9321
+253, John Wayne Airport-Orange County, 33.6767, -117.8678
+254, Lubbock Intl, 33.6636, -101.8222
+255, The William B Hartsfield Atlanta Intl, 33.6404, -84.4269
+256, Birmingham Intl, 33.5629, -86.7535
+257, Texarkana Regional-Webb Field, 33.4538, -93.9910
+258, Phoenix Sky Harbor Intl, 33.4342, -112.0081
+259, Bush Field, 33.3699, -81.9645
+260, Charleston Afb/Intl, 32.8998, -80.0405
+261, Dallas/Fort Worth Intl, 32.8968, -97.0375
+262, Dallas Love Field, 32.8471, -96.8519
+263, San Diego Intl-Lindbergh Fld, 32.7336, -117.1897
+264, Yuma Mcas/Yuma Intl, 32.6566, -114.6060
+265, Columbus Metropolitan, 32.5164, -84.9389
+266, Monroe Regional, 32.5112, -92.0377
+267, Shreveport Regional, 32.4466, -93.8256
+268, Abilene Regional, 32.4113, -99.6825
+269, Gregg County, 32.3846, -94.7115
+270, Tyler Pounds Field, 32.3541, -95.4023
+271, Jackson Intll, 32.3100, -90.0750
+272, Dannelly Field, 32.3006, -86.3937
+273, Savannah Intll, 32.1276, -81.2036
+274, Tucson Intl, 32.1161, -110.9420
+275, Midland Intl, 31.9425, -102.2084
+276, El Paso Intl, 31.8067, -106.3785
+277, Waco Regional, 31.6113, -97.2305
+278, Alexandria Esler Regional, 31.3949, -92.2958
+279, Mathis Field, 31.3577, -100.4968
+280, Killeen Muni, 31.0672, -97.8289
+281, Mobile Regional, 30.6875, -88.2419
+282, Easterwood Field, 30.5890, -96.3658
+283, Baton Rouge Metropolitan\ Ryan Field, 30.5332, -91.1496
+284, Jacksonville Intl, 30.4941, -81.6879
+285, Eglin Afb, 30.4833, -86.5254
+286, Pensacola Regional, 30.4734, -87.1866
+287, Tallahassee Regional, 30.3965, -84.3503
+288, Robert Mueller Muni, 30.3202, -97.7689
+289, Panama City-Bay Co Intl, 30.2121, -85.6823
+290, Lafayette Regional, 30.2053, -91.9876
+291, Lake Charles Regional, 30.1261, -93.2234
+292, New Orleans Intl/Moisant Fld/, 29.9934, -90.2581
+293, Houston Intercontinental, 29.9844, -95.3414
+294, Jefferson County, 29.9490, -90.2570
+295, Gainesville Regional, 29.6890, -82.2727
+296, William P Hobby, 29.6454, -95.2789
+297, San Antonio Intl, 29.5337, -98.4698
+298, Daytona Beach Intl, 29.1832, -81.0581
+299, Orlando Intl, 28.4294, -81.3089
+300, Melbourne Intll, 28.1020, -80.6458
+301, Tampa Intl, 27.9756, -82.5333
+302, St Petersburg/Clearwater Intl, 27.9102, -82.6870
+303, Corpus Christi Intl, 27.7704, -97.5019
+304, Laredo Intl, 27.5438, -99.4615
+305, Sarasota/Bradenton Intl, 27.3954, -82.5544
+306, Palm Beach Intl, 26.6831, -80.0956
+307, Southwest Florida Intl, 26.5362, -81.7553
+308, Rio Grande Valley Intl, 26.2285, -98.2456
+309, McAllen Miller Intl, 26.1758, -98.2386
+310, Fort Lauderdale/Hollywood Intl, 26.0726, -80.1528
+311, Miami Intl, 25.7933, -80.2906
+312, Lihue, 21.9750, -159.3389
+313, Honolulu Intl, 21.3207, -157.9242
+314, Molokai, 21.1529, -157.0963
+315, Kapalua, 20.9629, -156.6733
+316, Kahului, 20.8986, -156.4294
+317, Lanai, 20.7903, -156.0251
+318, Keahole-Kona Intll, 19.7388, -156.0456
+319, Hilo Intll, 19.7214, -155.0485
+320, Rafael Hernandez, 18.4963, -67.1294
+321, Luis Munoz Marin Intl, 18.4394, -66.0018
+322, Cyril E King, 18.3373, -64.9734
+323, Eugenio Maria De Hostos, 18.1388, -66.2632
+324, Mercedita, 17.9296, -66.5020
+325, Alexander Hamilton, 17.7016, -64.8001
+326, Johnston Atoll, 16.7286, -169.5335
+327, Saipan Intl, 15.1200, 145.7266
+328, Rota Intl, 14.1743, 145.2425
+329, Guam Intll, 13.4834, 144.7956
+330, Babelthuap/Koror, 7.3674, 134.5442
+331, Pago Pago Intl, -14.3310, -170.7119
+332, West Tinian, 14.9981, 145.6217
