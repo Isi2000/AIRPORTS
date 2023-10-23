@@ -1,4 +1,4 @@
-Index, Airport Name, Latitude, Longitude
+Index,Airport Name,Latitude,Longitude
 1, Wiley Post-Will Rogers Mem, 71.2854, -156.7787
 2, Deadhorse, 70.1948, -148.4647
 3, Ralph Wien Memorial, 64.3219, -149.1200
